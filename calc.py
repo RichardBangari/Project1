@@ -6,7 +6,7 @@
 
 def sub(a,b):
     z=0
-    z=a+b
+    z=a-b
     print(z)
 
 def mul(a,b):
